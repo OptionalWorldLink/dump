@@ -1,0 +1,13 @@
+{
+    "name": "owl/dump",
+    "description": "Dump all MySQL Databases",
+    "require": {
+        "ifsnop/mysqldump-php": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "SandorKrasna",
+            "email": "contact@fruityloop.fr"
+        }
+    ]
+}
